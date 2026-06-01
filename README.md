@@ -26,8 +26,8 @@ Examples may include:
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/sos-helpline.git
-cd sos-helpline
+git clone https://github.com/hackwithkartik10/SOS-Helpline.git
+cd SOS-Helpline
 ```
 
 ## Requirements
@@ -37,7 +37,7 @@ cd sos-helpline
 ## Usage
 
 ```bash
-python sos_helpline.py
+python3 emergancy.py
 ```
 
 Example Output:
@@ -51,9 +51,9 @@ Example Output:
 4. Women Helpline
 5. Cyber Crime Helpline
 
-Select an option: 1
+Enter Service Name : Police
 
-Police Emergency: 112
+Output: 100
 ```
 
 ## Project Structure
@@ -80,4 +80,4 @@ MIT License
 
 ## Author
 
-Developed with Python ❤️
+Devoloped by Kartik Panchal , Developed with Python ❤️
